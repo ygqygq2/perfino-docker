@@ -4,7 +4,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-- [`latest` (*Dockerfile*)](https://github.com/ygqygq2/perfino-docker/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/ygqygq2/perfino-docker.svg)](http://microbadger.com/images/ygqygq2/perfino-docker "Get your own image badge on microbadger.com")
+- [`latest` (*Dockerfile*)](https://github.com/ygqygq2/perfino-docker/blob/main/Dockerfile) [![](https://images.microbadger.com/badges/image/ygqygq2/perfino-docker.svg)](http://microbadger.com/images/ygqygq2/perfino-docker "Get your own image badge on microbadger.com")
 
 ## Simplest docker run example
 
